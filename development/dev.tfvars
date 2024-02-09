@@ -1,0 +1,8 @@
+planname = "plan01"
+sitename = "tfsite"
+teamname = "dev"
+regioncode = "cin"
+location = "centralindia"
+tfstaterg = "backend-tf-state-rg"
+tfstatestorage = "backendstorabc000"
+tfstatecontainer = "statecontainer"
